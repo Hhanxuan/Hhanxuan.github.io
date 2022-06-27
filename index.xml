@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanxuanのblog</title>
+    <link>https://hhanxuan.github.io/</link>
+    <description>Recent content on Hanxuanのblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 15:13:35 +0800</lastBuildDate><atom:link href="https://hhanxuan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://hhanxuan.github.io/post/blog/</link>
+      <pubDate>Mon, 27 Jun 2022 15:13:35 +0800</pubDate>
+      
+      <guid>https://hhanxuan.github.io/post/blog/</guid>
+      <description>在本次实践中我遇到的困难主要有英文阅读吃力、软件下载复杂、环境配置复杂。 在安装hugo和GIT时遇到了些许困难。但在博客搭建过程中很顺利。 但到了最后用 hugo new post/blog.md创建博客时遇到了GIT配置错误问题：themes定义重复， 在删除了一个定义后便顺利解决问题。
+软工2101 2021011135 冯相然 </description>
+    </item>
+    
+  </channel>
+</rss>
